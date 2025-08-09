@@ -33,18 +33,17 @@ The **RAG Vector DB Project** aims to create a robust and efficient vector datab
 - **Enterprise Knowledge Base Search**
 - **AI-Powered Customer Support**
 
-rag-vector-db/
-├── data/ # Sample documents & embeddings
-├── src/ # Core source code
-│ ├── embeddings/ # Embedding model loaders
-│ ├── db/ # Vector DB clients & indexers
-│ └── rag/ # RAG pipeline integration
-├── notebooks/ # Jupyter notebooks for experiments
-├── tests/ # Unit and integration tests
-└── README.md
-- **Research Document Retrieval**
-- **Domain-Specific Q&A Systems**
-
----
 
 ## 📂 Repository Structure
+
+```plaintext
+rag-vector-db/
+├── data/               # Sample documents & embeddings
+├── src/                # Core source code
+│   ├── embeddings/     # Embedding model loaders
+│   ├── db/             # Vector DB clients & indexers
+│   └── rag/            # RAG pipeline integration
+├── notebooks/          # Jupyter notebooks for experiments
+├── tests/              # Unit and integration tests
+└── README.md
+

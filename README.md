@@ -1,8 +1,5 @@
-# vector-database-dev
+# Vector-databaase-dev
 Vector database development for RAG systems, enabling efficient semantic search and knowledge retrieval.
-
-# RAG Vector DB
-
 A project to design, build, and integrate a **vector database** for Retrieval-Augmented Generation (RAG) systems.  
 This repository focuses on **semantic search**, **document embedding**, and **scalable knowledge retrieval** to enhance Large Language Model (LLM) applications.
 
